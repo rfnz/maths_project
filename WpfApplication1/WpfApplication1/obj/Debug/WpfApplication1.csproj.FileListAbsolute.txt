@@ -1,0 +1,2 @@
+E:\Учеба\7 семестр\Програссная инженерия\maths_project\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+E:\Учеба\7 семестр\Программная инженерия\maths_project\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
