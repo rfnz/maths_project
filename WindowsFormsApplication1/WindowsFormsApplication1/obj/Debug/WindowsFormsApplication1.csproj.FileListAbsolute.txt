@@ -1,2 +1,1 @@
-E:\Учеба\7 семестр\Програссная инженерия\maths_project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
-E:\Учеба\7 семестр\Программная инженерия\maths_project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\admin\Source\Repos\maths_project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
